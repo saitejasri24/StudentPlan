@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow - Student Study Tracker",
+  "description": "A modern, responsive student study tracker with subject management, daily task tracking, 25-minute Pomodoro timer, progress analytics, and localStorage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
